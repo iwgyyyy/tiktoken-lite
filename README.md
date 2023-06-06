@@ -1,4 +1,4 @@
-## Introduction
+## tiktoken-lite
 一个专门用来计算```gpt```的tokens的轻量级库
 
 仅支持以下模型
