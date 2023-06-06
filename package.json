@@ -1,0 +1,23 @@
+{
+  "name": "tiktoken-lite",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwgyyyy/tiktoken-lite.git"
+  },
+  "author": "yiyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwgyyyy/tiktoken-lite/issues"
+  },
+  "homepage": "https://github.com/iwgyyyy/tiktoken-lite#readme",
+  "dependencies": {
+    "base64-js": "^1.5.1"
+  }
+}
