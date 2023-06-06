@@ -14,6 +14,6 @@ declare class Tiktoken {
     decode(tokens: number[]): string;
 }
 
-declare function getEncoding(extendSpecialTokens?: Record<string, number>): Tiktoken;
+declare function get_encoding(extendSpecialTokens?: Record<string, number>): Tiktoken;
 
-export { Tiktoken, getEncoding, TiktokenModel, TiktokenEncoding };
+export { Tiktoken, get_encoding, TiktokenModel, TiktokenEncoding };
